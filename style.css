@@ -222,7 +222,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #781c2e;
+    border-left: 0.5rem solid #f5cb5c;
   }
 }
 
@@ -233,7 +233,6 @@
 
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
   }
   .projects-section .project-text hr {
     border-color: #781c2e;
@@ -259,7 +258,7 @@
       rgba(22, 22, 22, 0.5) 75%,
       #161616 100%
     ),
-    url("https://i.postimg.cc/MGYRBK7Q/buildings.png");
+    url("./assets/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
